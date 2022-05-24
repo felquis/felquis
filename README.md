@@ -1,12 +1,15 @@
-### Hi there 👋
+### 
 
-This account has been in use from 2011 to 2021, I learned so much about how web tech works alongside with browsers and OS on this decade, I can't wait for what the future holds.
+> This account has been in use from 2011 to 2022 and counting<br/>
+> I have learnt so much about web tech alongside browser and<br/> OS vendors
+> for which I'm grateful and yet there's a ton to learn.<br />
+> Can't wait for what the future holds.<br />
+> &horbar; Felquis G
 
-🔭 I’m currently working on <a href="https://tbbc.app/?old-github">TBBC APP</a> as part of my personal efforts to evolve my web authoring skills
+🔭 I've created a few demos showcasing web browser API capabilities at [tbbc.app/browse](https://tbbc.app/browse);
 
-🌱 I’m always curious about how other platform APIs solve user interfaces internally compared to CSS in the browsers.
+📓 There are few blog posts at [tbbc.app/posts](https://tbbc.app/posts) and portuguese 🇧🇷 at [tbbc.app/posts/pt-br](https://tbbc.app/posts/pt-br);
 
-📫 How to reach me: there's an email on <a href="https://tbbc.app/404">this page</a>
+🌱 I'm curious about a broad spectrum of human interest;
 
-💬 Ask me about Web technologies
-
+📫 If you want to reach out to me there's an email at [tbbc.app/404](https://tbbc.app/404).
